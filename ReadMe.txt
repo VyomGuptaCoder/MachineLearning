@@ -1,10 +1,6 @@
 Machine Learning CS 6375 Project On Deep Dark Light.
 
-Team members:
-Swapnil Bansal sxb180020
-Harshel Jain hxj170009
-Vyom Gupta fxv180000
-Lipsa Senapati lxs180002
+Vyom Gupta
 
 The Folder has 3 files:
 accuracy_metrics.py - To calculate the PSNR and SSIM of the output image vs the real image.
